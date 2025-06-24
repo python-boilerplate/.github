@@ -128,7 +128,7 @@ All templates are released under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Made with ❤️ by the [Python Boilerplate](https://github.com/python-boilerplate) team**
+**Made with ❤️ by [@monok8i](https://github.com/monok8i)**
 
 [⭐ Follow the Organization](https://github.com/python-boilerplate) • [📋 Browse Templates](https://github.com/orgs/python-boilerplate/repositories) • [💬 Join Discussions](https://github.com/orgs/python-boilerplate/discussions)
 

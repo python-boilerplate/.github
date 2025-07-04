@@ -1,4 +1,4 @@
-# Python Boilerplate
+![Python Boilerplate](./assets/banner.png)
 
 > A collection of modern Python project templates with pre-configured development tools, CI/CD pipelines, and best practices.
 
